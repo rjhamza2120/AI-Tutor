@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.env
+
+# Virtual environments
+.venv
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+*.log
+*.sqlite3
+credentials.json
+# Qdrant local files
+qdrant_storage/
