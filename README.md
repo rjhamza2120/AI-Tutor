@@ -22,7 +22,7 @@ An intelligent AI-powered tutoring chatbot specialized in Artificial Intelligenc
 ### 1. Clone and Setup
 ```bash
 # Navigate to project directory
-cd Sun-Marke
+cd AI-Tutor
 
 # Install Python dependencies
 pip install -r requirements.txt
@@ -82,7 +82,7 @@ Subsequent runs will use the existing knowledge base for faster startup.
 ## Project Structure
 
 ```
-Sun-Marke/
+AI=Tutor/
 ├── main.py                 # Main application entry point
 ├── scrape.py              # Web scraping module for data collection
 ├── requirements.txt       # Python dependencies
