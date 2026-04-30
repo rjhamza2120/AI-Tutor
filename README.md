@@ -160,16 +160,11 @@ To modify or extend the chatbot:
 - [ ] User authentication and profiles
 - [ ] Analytics dashboard
 
-## License
-
-This project is provided as-is for educational purposes.
-
 ## Support
 
 For issues or questions:
-1. Check the Troubleshooting section
-2. Review error messages in the Streamlit terminal
-3. Verify all environment variables are correctly set
+1. Review error messages in the Streamlit terminal
+2. Verify all environment variables are correctly set
 
 ---
 
